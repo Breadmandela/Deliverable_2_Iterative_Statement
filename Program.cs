@@ -31,7 +31,7 @@ namespace Deliverable_2_Iterative_Statement
                 {
                     Console.WriteLine("Execute For Loop");
                     
-                    //For Loop.
+                    //For Loop will display integer entered and the number of loops starting at 1
                     for( int i = 1; i <= Value_of_input; i++) 
                     {
                         Console.WriteLine("You have entered" + " " + Value_of_input +"." + " " + 
