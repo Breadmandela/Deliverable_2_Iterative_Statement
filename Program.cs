@@ -31,8 +31,8 @@ namespace Deliverable_2_Iterative_Statement
                 {
                     Console.WriteLine("Execute For Loop");
                     
-                    //For Loop//CANT FIGURE OUT HOW TO START LOOP AT 1
-                    for( int i = 0; i < Value_of_input; i++) 
+                    //For Loop
+                    for( int i = 1; i <= Value_of_input; i++) 
                     {
                         Console.WriteLine("You have entered" + " " + Value_of_input +"." + " " + 
                         "This is the current integer value in the loop: " + i.ToString());
